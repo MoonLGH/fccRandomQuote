@@ -1,4 +1,4 @@
-name: Publish Website
+name: Build React
 
 on:
   push:
@@ -16,6 +16,8 @@ jobs:
         node-version: 14
     - name: Install dependencies
       run: npm i
+    - name: Test
+      run: npm run test --if-present
     - name: Build
       run: npm run build:prod --if-present
     - name: Deploy
