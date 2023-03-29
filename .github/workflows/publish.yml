@@ -1,4 +1,4 @@
-name: Build React
+name: Publish Website
 
 on:
   push:
