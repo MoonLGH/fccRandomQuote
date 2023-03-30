@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fccRandomQuote/static/css/main.806f61ba.css",
+    "main.js": "/fccRandomQuote/static/js/main.a270a8d9.js",
+    "index.html": "/fccRandomQuote/index.html",
+    "main.806f61ba.css.map": "/fccRandomQuote/static/css/main.806f61ba.css.map",
+    "main.a270a8d9.js.map": "/fccRandomQuote/static/js/main.a270a8d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.806f61ba.css",
+    "static/js/main.a270a8d9.js"
+  ]
+}
